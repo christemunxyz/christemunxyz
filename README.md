@@ -1,4 +1,4 @@
-# nyan cat
+# puffy
 ![What is this](lol.gif)
 
 <!--
